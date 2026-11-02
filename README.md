@@ -5,9 +5,9 @@ controller selects a server and path per connection from live server health and
 link load, and reroutes when a link or server fails. Built and tested in Mininet.
 
 ## Team
-- <Name 1> - <role>
-- <Name 2> - <role>
-- <Name 3> - <role>
+- ANIKET K B
+- KAVANA RAO
+- ATIT B SHETTY 
 
 ## Architecture
 - Topology: 3 clients (h1-h3), 4 switches (s1-s4), 3 servers (srv1-srv3)
